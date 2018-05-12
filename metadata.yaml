@@ -1,0 +1,34 @@
+_repo: Sea-Weeds-Shells-and-Fossils_37119
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37119-h/images/coverpage.png
+creator:
+  authors:
+  - agent_name: Woodward, B. B. (Bernard Bolingbroke)
+    alias: Woodward, Bernard Bolingbroke
+    birthdate: 1816
+    deathdate: 1869
+    gutenberg_agent_id: '38663'
+    url: http://www.gutenberg.org/2009/agents/38663
+  - agent_name: Gray, Peter
+    gutenberg_agent_id: '38662'
+    url: http://www.gutenberg.org/2009/agents/38662
+description: ''
+gutenberg_issued: '2011-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mollusks -- Classification -- Juvenile literature'
+- !lcsh 'Mollusks, Fossil -- Juvenile literature'
+- !lcc 'QK'
+- !lcsh 'Mollusks -- Identification -- Juvenile literature'
+- !lcc 'QL'
+- !lcsh 'Marine algae -- Identification -- Juvenile literature'
+title: Sea-Weeds, Shells and Fossils
+url: http://www.gutenberg.org/ebooks/37119
